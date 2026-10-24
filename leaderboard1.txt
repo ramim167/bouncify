@@ -1,0 +1,13 @@
+# Leaderboard - Top 10 Scores
+# Format: Rank. PlayerName - Score
+
+1. Project - 1983
+2. Ramim - 1983
+3. Ramim - 1981
+4. Shanto - 1981
+5. shanto - 1979
+6. Ramim  - 1932
+7. shanto - 1781
+8. shahariar - 1780
+9. atik - 1683
+10. --- - 0

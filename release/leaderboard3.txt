@@ -1,0 +1,13 @@
+# Leaderboard - Top 10 Scores
+# Format: Rank. PlayerName - Score
+
+1. Nafis - 2781
+2. shanto - 2483
+3. Ramim  - 1981
+4. Ramim - 1316
+5. Ramim - 202
+6. Ramim - 163
+7. YAAA - 0
+8. --- - 0
+9. --- - 0
+10. --- - 0
